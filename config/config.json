@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0x34350b368731EFF518C9097E590d1E8aEa2a329F",
-  "SCAN_LINK": "https://goerli.etherscan.io/token/0x34350b368731EFF518C9097E590d1E8aEa2a329F",
+  "CONTRACT_ADDRESS": "0x4c1A8f7A8b34834433B6F9B6641D1591e4C12374",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x4c1a8f7a8b34834433b6f9b6641d1591e4c12374",
   "NETWORK": {
-    "NAME": "Goerli",
+    "NAME": "Georli",
     "SYMBOL": "ETH",
     "ID": 5
   },
-  "NFT_NAME": "Cyber Tokyo",
-  "SYMBOL": "CT",
-  "CONTENT": "999 1/1 CybersTokyos are on the mission. Can you save the city from infinite misery",
+  "NFT_NAME": "Not Your Regular NFTs",
+  "SYMBOL": "NYRN",
+  "CONTENT": "Here our dear paperhanders can summon NYRN",
   "GAS_LIMIT": 210000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/",
-  "LINKTREE": "https://linktr.ee/reservedsnow"
+  "LINKTREE": "https://linktr.ee/nyrn"
 }
